@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-# myNewsLetterSignup
-=======
-# news-letter-signup
->>>>>>> master
+#new-letter-signup
